@@ -1,0 +1,62 @@
+body
+{
+    background-color: #FFFFFF;
+    font-family: 'roboto', sans-serif;
+}
+
+h1
+{
+    color: #414141;
+    font-family: 'roboto', sans-serif;
+    font-weight: bolder;
+}
+
+h2
+{
+    color: #616161;
+    font-family: 'roboto', sans-serif;
+    font-weight: bolder;
+}
+
+h3
+{
+    color: #616161;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+}
+
+h5
+{
+    color: #616161;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+}
+
+p
+{
+    color: #616161;
+    font-family: 'roboto', sans-serif;
+    font-weight: smaller;
+    font-size: small;
+}
+
+a
+{
+    color: #000000;
+    font-family: 'roboto', sans-serif;
+    font-weight: thin;
+    font-size: smaller;
+    text-decoration: underline;
+}
+
+div
+{
+    display: inline;
+    margin: 10px;
+}
+
+section
+{
+    line-height: 100%;
+    margin: 2px;
+}
